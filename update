@@ -1,0 +1,2 @@
+I expanded the interval to two octaves and added more chords with more modal scales. The issue I found is I couldn't get the interval table to update when the Dominant note or key was changed. As a work-around, I froze the key of the interval table
+to the key of A. Thanks to zskilz for assistance!
